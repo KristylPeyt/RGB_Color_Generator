@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGB Color Generator</string>
+    <string name="title_rgb">Create Your Own Color 🎨</string>
+    <string name="description_rgb">Enter two hexadecimal characters for each RGB channel. Use values from 0-9 or A-F.</string>
+    <string name="red_channel">Red Channel</string>
+    <string name="green_channel">Green Channel</string>
+    <string name="blue_channel">Blue Channel</string>
+    <string name="create_color">Generated Color</string>
+</resources>
